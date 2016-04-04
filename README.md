@@ -61,6 +61,13 @@ For things that could help at any layer.
 - [Platform.js](https://github.com/bestiejs/platform.js/)
 
 
+### GitHub
+I'm not a pro at this just yet.
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Markdown Live Preview](http://markdownlivepreview.com)
+
+
 #### Templates
 From inspiration to copy and paste.
 

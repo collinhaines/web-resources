@@ -34,6 +34,7 @@ Designs that are showing off how cool they are.
 Between v0.0 and v1.0.
 
 - [Bob Ross Lipsum](http://www.bobrosslipsum.com)
+- [Bootstrap Cheat Sheet](http://hackerthemes.com/bootstrap-cheatsheet)
 - [Browsersync](https://www.browsersync.io)
 - [Khaled Lipsum](http://khaledipsum.com)
 - [Free Sites with High Quality Photos](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
@@ -42,11 +43,13 @@ Between v0.0 and v1.0.
 - [Placehold.it](http://placehold.it)
 - [PlaceIMG](https://placeimg.com)
 - [Resizer - Google Design](http://design.google.com/resizer/)
+- [Spotbot](https://spotbot.qa)
 
 
 #### Development - User Experience
 Anything dealing with how the user experiences the website.
 
+- [HEAD - A list of everything that goes in <head>](https://github.com/joshbuchea/HEAD)
 - [HTML 508 Checklist](http://www.hhs.gov/web/section-508/making-files-accessible/checklist/html/index.html)
 - [Local SEO Checklist](http://localseochecklist.org)
 - [Responsive Emails - Foundation](http://foundation.zurb.com/emails.html)

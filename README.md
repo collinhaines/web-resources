@@ -49,11 +49,13 @@ Between v0.0 and v1.0.
 #### Development - User Experience
 Anything dealing with how the user experiences the website.
 
+- [7 Things Every Designer Needs to Know about Accessibility](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.ir40g54ye)
 - [HEAD - A list of everything that goes in <head>](https://github.com/joshbuchea/HEAD)
 - [HTML 508 Checklist](http://www.hhs.gov/web/section-508/making-files-accessible/checklist/html/index.html)
 - [Local SEO Checklist](http://localseochecklist.org)
 - [Responsive Emails - Foundation](http://foundation.zurb.com/emails.html)
 - [UpUp - The Offline First Library](https://www.talater.com/upup/)
+- [UX Project Checklist](https://uxchecklist.github.io/)
 
 
 #### Full Stack
@@ -86,4 +88,5 @@ From inspiration to copy and paste.
 #### Research and Reference
 Making mistakes is last on the TODO list.
 
+- [Being a Web Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.hu4uujx2y)
 - [Store Passwords with PHP and MySQL](https://alias.io/2010/01/store-passwords-safely-with-php-and-mysql/)

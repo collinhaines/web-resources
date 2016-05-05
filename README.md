@@ -88,5 +88,7 @@ From inspiration to copy and paste.
 #### Research and Reference
 Making mistakes is last on the TODO list.
 
+- [About rel=noopener](https://mathiasbynens.github.io/rel-noopener/)
 - [Being a Web Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.hu4uujx2y)
 - [Store Passwords with PHP and MySQL](https://alias.io/2010/01/store-passwords-safely-with-php-and-mysql/)
+- [When to use target="_blank"](https://css-tricks.com/use-target_blank/)
